@@ -1,0 +1,101 @@
+BAYAN KALASH
+Software Engineering Student | Full-Stack Developer (Laravel / PHP / JavaScript)
+
+Email: bayankallash@gmail.com
+Phone: +970 599 756 244
+Location: Gaza Strip, Palestine | Open to remote work worldwide
+Languages: Arabic (Native) | English (C1 Advanced)
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Third-year Software Engineering student and full-stack developer with hands-on
+experience building Laravel (PHP) applications, RESTful APIs, and responsive
+front ends. Completed a remote internship with Resilience WorldWide, a
+Switzerland-based international NGO, delivering production features in an
+agile, Git-based workflow across time zones. Strong in MySQL, MVC architecture,
+and clear technical communication in English (C1). Seeking full-stack or
+backend roles where reliable delivery and cross-cultural collaboration matter.
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+Full-Stack Developer Intern
+Resilience WorldWide — Remote (Switzerland-based international NGO)
+January 2025 – June 2025
+
+- Designed and shipped full-stack web features for a humanitarian organisation
+  serving programmes across multiple countries.
+- Built and maintained Laravel (PHP) backend modules using MVC patterns,
+  Eloquent ORM, middleware, and authentication flows.
+- Designed and integrated RESTful APIs and connected them to front-end
+  interfaces with HTML5, CSS3, and JavaScript (ES6+).
+- Worked asynchronously with a distributed international team; used Git/GitHub
+  for version control, code review, and on-time sprint deliveries.
+- Practised agile collaboration (Scrum-style ceremonies and iterative delivery)
+  in a fully remote professional environment.
+
+================================================================================
+EDUCATION
+================================================================================
+B.Sc. Software Engineering
+Islamic University of Gaza — Gaza Strip, Palestine
+September 2022 – Present
+
+- Core coursework: software architecture, data structures, algorithms,
+  databases, object-oriented programming, and web engineering.
+- Focus areas: full-stack web development, relational databases, and agile
+  software practices.
+- Completed collaborative technical projects and coursework under constrained
+  infrastructure conditions while maintaining consistent academic progress.
+- Programme aligned with EQF Level 6 / ECTS-compatible higher education
+  standards, supporting international credit recognition.
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+Advanced Laravel Bootcamp — UCASI (Verified)
+May 2026
+
+- Advanced PHP/Laravel: MVC architecture, Eloquent ORM, middleware,
+  authentication systems, and API development.
+- Completed alongside full-time university studies through self-directed
+  professional upskilling.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Backend: PHP, Laravel, MVC Architecture, Eloquent ORM, RESTful API Design,
+MySQL, Relational Databases, Authentication & Middleware
+
+Frontend: HTML5, CSS3, JavaScript (ES6+), Responsive UI Design
+
+Tools & Practices: Git, GitHub, Agile / Scrum, Linux CLI, VS Code,
+Technical Documentation, Code Review
+
+Core Strengths: Problem Solving, Algorithms, Asynchronous Remote Collaboration,
+Cross-cultural Teamwork
+
+================================================================================
+LANGUAGES
+================================================================================
+Arabic — Native (full professional proficiency, written and spoken)
+English — C1 Advanced (Listening, Reading, Speaking, Interaction, Writing)
+
+================================================================================
+SELECTED COMPETENCIES
+================================================================================
+- Remote delivery: reliable feature delivery for an international NGO across
+  time zones with strong written English communication.
+- Humanitarian / mission-driven software: applied engineering skills in service
+  of community-focused programmes.
+- Resilience & initiative: sustained academic and professional output while
+  pursuing advanced Laravel certification beyond degree requirements.
+
+================================================================================
+REFERENCES
+================================================================================
+Professional reference available upon request:
+Resilience WorldWide — hr@rww.email
+
+Academic references available upon request from the Islamic University of Gaza.
