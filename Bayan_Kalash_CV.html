@@ -13,7 +13,6 @@
       --line: #d8dee6;
       --accent: #0b6e4f;
       --bg: #ffffff;
-      --soft: #f4f7f5;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -22,8 +21,8 @@
       font-family: "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
       color: var(--ink);
       background: #e8ecef;
-      line-height: 1.38;
-      font-size: 10pt;
+      line-height: 1.36;
+      font-size: 9.75pt;
     }
 
     .page {
@@ -77,7 +76,7 @@
       color: var(--accent);
       border-bottom: 1px solid var(--line);
       padding-bottom: 2px;
-      margin: 10px 0 5px;
+      margin: 9px 0 5px;
     }
 
     .summary {
@@ -85,8 +84,8 @@
       text-align: justify;
     }
 
-    .job, .edu, .cert {
-      margin-bottom: 6px;
+    .project, .edu, .cert {
+      margin-bottom: 5px;
     }
 
     .role-row {
@@ -99,11 +98,11 @@
 
     .role {
       font-weight: 700;
-      font-size: 11pt;
+      font-size: 10.5pt;
     }
 
     .dates {
-      font-size: 9.5pt;
+      font-size: 9pt;
       color: var(--muted);
       white-space: nowrap;
       font-weight: 600;
@@ -111,47 +110,30 @@
 
     .org {
       color: var(--muted);
-      font-size: 9.5pt;
-      margin-bottom: 4px;
+      font-size: 9pt;
+      margin-bottom: 2px;
     }
 
     ul {
       padding-left: 1.15em;
-      margin-top: 2px;
+      margin-top: 1px;
     }
 
-    li {
-      margin-bottom: 2px;
-    }
+    li { margin-bottom: 1px; }
 
     .skills-grid {
       display: grid;
       grid-template-columns: 7.5em 1fr;
-      gap: 4px 10px;
+      gap: 3px 10px;
     }
 
-    .skills-grid dt {
-      font-weight: 700;
-      color: var(--ink);
-    }
+    .skills-grid dt { font-weight: 700; }
+    .skills-grid dd { color: var(--ink); }
 
-    .skills-grid dd {
-      color: var(--ink);
-    }
-
-    .lang-list {
-      list-style: none;
-      padding: 0;
-    }
-
+    .lang-list { list-style: none; padding: 0; }
     .lang-list li { margin-bottom: 2px; }
 
-    .compact p { margin-bottom: 4px; }
-
-    .refs {
-      color: var(--muted);
-      font-size: 9.5pt;
-    }
+    .refs { color: var(--muted); font-size: 9.5pt; }
 
     .print-hint {
       text-align: center;
@@ -159,7 +141,6 @@
       margin: 0 auto 8px;
       font-size: 9pt;
       color: #667;
-      font-family: "Segoe UI", Helvetica, Arial, sans-serif;
     }
 
     .print-hint kbd {
@@ -182,14 +163,11 @@
       a { color: inherit; text-decoration: none; }
     }
 
-    @page {
-      size: A4;
-      margin: 0;
-    }
+    @page { size: A4; margin: 0; }
   </style>
 </head>
 <body>
-  <p class="print-hint">Open this file in a browser → <kbd>Ctrl</kbd>+<kbd>P</kbd> / <kbd>⌘</kbd>+<kbd>P</kbd> → Destination: <strong>Save as PDF</strong> · Margins: Default · Background graphics: On</p>
+  <p class="print-hint">Open this file in a browser → <kbd>Ctrl</kbd>+<kbd>P</kbd> / <kbd>⌘</kbd>+<kbd>P</kbd> → Destination: <strong>Save as PDF</strong></p>
 
   <article class="page">
     <header>
@@ -202,6 +180,8 @@
         <span>|</span>
         Gaza Strip, Palestine
         <span>|</span>
+        <a href="https://github.com/bkallash">github.com/bkallash</a>
+        <span>|</span>
         Open to remote worldwide
         <br />
         Arabic (Native) · English (C1 Advanced)
@@ -211,23 +191,43 @@
     <section>
       <h2>Professional Summary</h2>
       <p class="summary">
-        Third-year Software Engineering student and full-stack developer with hands-on experience building Laravel (PHP) applications, RESTful APIs, and responsive front ends. Completed a remote internship with Resilience WorldWide, a Switzerland-based international NGO, delivering production features in an agile, Git-based workflow across time zones. Strong in MySQL, MVC architecture, and clear technical communication in English (C1). Seeking full-stack or backend roles where reliable delivery and cross-cultural collaboration matter.
+        Third-year Software Engineering student and full-stack developer with a portfolio of production-style web applications in Laravel (PHP), Livewire, and MySQL — from AI-powered form builders to multi-role marketplaces and social apps. Delivers complete projects end-to-end: database design, RESTful APIs, authentication, responsive UIs, and Git/GitHub workflows. Strong problem-solving skills and clear technical communication in English (C1). Seeking full-stack or backend roles where hands-on delivery and code quality matter.
       </p>
     </section>
 
     <section>
-      <h2>Professional Experience</h2>
-      <div class="job">
+      <h2>Selected Projects</h2>
+
+      <div class="project">
         <div class="role-row">
-          <p class="role">Full-Stack Developer Intern</p>
-          <p class="dates">Jan 2025 – Jun 2025</p>
+          <p class="role">Form Generator v2.0</p>
+          <p class="dates">Personal Project</p>
         </div>
-        <p class="org">Resilience WorldWide — Remote (Switzerland-based international NGO)</p>
+        <p class="org">Laravel 12 · Livewire 3 · MySQL · Google Gemini AI · github.com/bkallash/form-generator</p>
         <ul>
-          <li>Designed and shipped full-stack web features for a humanitarian organisation serving programmes across multiple countries.</li>
-          <li>Built Laravel (PHP) backend modules with MVC, Eloquent ORM, middleware, and authentication; designed RESTful APIs connected to HTML5/CSS3/JavaScript (ES6+) interfaces.</li>
-          <li>Collaborated asynchronously across time zones; used Git/GitHub for version control, code review, and on-time agile (Scrum-style) sprint deliveries.</li>
+          <li>Built a full-stack form platform with drag-and-drop builder, public share links, CSV export, conditional logic, and multi-page layouts.</li>
+          <li>Integrated Google Gemini AI for chat-based form creation, sentiment analysis, anomaly alerts, and dashboard health digests via queued background jobs.</li>
         </ul>
+      </div>
+
+      <div class="project">
+        <div class="role-row">
+          <p class="role">Local Services Marketplace</p>
+          <p class="dates">Personal Project</p>
+        </div>
+        <p class="org">Laravel · MySQL · Blade · github.com/bkallash/local-services</p>
+        <ul>
+          <li>Developed a multi-role platform (client, service provider, admin) with service listings, order workflows, dashboards, and admin reporting.</li>
+          <li>Implemented role-based authentication, profile management, and admin modules for users, categories, services, and orders.</li>
+        </ul>
+      </div>
+
+      <div class="project">
+        <div class="role-row">
+          <p class="role">TASKMASTER · Simple Twitter · Finance Tracker</p>
+          <p class="dates">Personal Projects</p>
+        </div>
+        <p class="org">Laravel task manager with projects &amp; activity logs · Dockerized social app (Laravel 12) · JavaFX desktop finance app with MySQL reports</p>
       </div>
     </section>
 
@@ -240,8 +240,7 @@
         </div>
         <p class="org">Islamic University of Gaza — Gaza Strip, Palestine</p>
         <ul>
-          <li>Coursework: software architecture, data structures, algorithms, databases, OOP, and web engineering; focus on full-stack development and agile practices.</li>
-          <li>EQF Level 6 / ECTS-compatible programme; collaborative technical projects completed with consistent academic progress under constrained infrastructure.</li>
+          <li>Coursework: software architecture, data structures, algorithms, databases, OOP, and web engineering; EQF Level 6 / ECTS-compatible programme.</li>
         </ul>
       </div>
     </section>
@@ -263,34 +262,13 @@
       <h2>Technical Skills</h2>
       <dl class="skills-grid">
         <dt>Backend</dt>
-        <dd>PHP, Laravel, MVC Architecture, Eloquent ORM, RESTful API Design, MySQL, Relational Databases, Authentication &amp; Middleware</dd>
+        <dd>PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Authentication &amp; Middleware</dd>
         <dt>Frontend</dt>
-        <dd>HTML5, CSS3, JavaScript (ES6+), Responsive UI Design</dd>
+        <dd>HTML5, CSS3, JavaScript (ES6+), Blade, Bootstrap, Responsive UI Design</dd>
         <dt>Tools</dt>
-        <dd>Git, GitHub, Agile / Scrum, Linux CLI, VS Code, Technical Documentation, Code Review</dd>
-        <dt>Strengths</dt>
-        <dd>Problem Solving, Algorithms, Asynchronous Remote Collaboration, Cross-cultural Teamwork</dd>
+        <dd>Git, GitHub, Docker, Java, JavaFX, Linux CLI, VS Code, Agile / Scrum, Problem Solving, Algorithms</dd>
       </dl>
-    </section>
-
-    <section>
-      <h2>Languages</h2>
-      <ul class="lang-list">
-        <li><strong>Arabic</strong> — Native (full professional proficiency, written and spoken)</li>
-        <li><strong>English</strong> — C1 Advanced (Listening, Reading, Speaking, Interaction, Writing)</li>
-      </ul>
-    </section>
-
-    <section class="compact">
-      <h2>Selected Competencies</h2>
-      <p><strong>Remote delivery</strong> for an international NGO across time zones · <strong>Mission-driven</strong> engineering for community programmes · <strong>Initiative</strong> through advanced Laravel certification alongside full-time studies.</p>
-    </section>
-
-    <section>
-      <h2>References</h2>
-      <p class="refs">
-        Professional: Resilience WorldWide — <a href="mailto:hr@rww.email">hr@rww.email</a> (upon request) · Academic: Islamic University of Gaza (upon request).
-      </p>
+      <p class="refs">References available upon request · Portfolio: github.com/bkallash</p>
     </section>
   </article>
 </body>

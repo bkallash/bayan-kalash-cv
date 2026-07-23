@@ -2,28 +2,37 @@
 
 **Software Engineering Student | Full-Stack Developer (Laravel · PHP · JavaScript)**
 
-bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · Open to remote worldwide  
+bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · [github.com/bkallash](https://github.com/bkallash) · Open to remote worldwide  
 **Languages:** Arabic (Native) · English (C1 Advanced)
 
 ---
 
 ## Professional Summary
 
-Third-year Software Engineering student and full-stack developer with hands-on experience building **Laravel (PHP)** applications, **RESTful APIs**, and responsive front ends. Completed a remote internship with **Resilience WorldWide**, a Switzerland-based international NGO, delivering production features in an agile, Git-based workflow across time zones. Strong in **MySQL**, MVC architecture, and clear technical communication in English (C1). Seeking full-stack or backend roles where reliable delivery and cross-cultural collaboration matter.
+Third-year Software Engineering student and full-stack developer with a portfolio of production-style web applications in **Laravel (PHP)**, **Livewire**, and **MySQL** — from AI-powered form builders to multi-role marketplaces and social apps. Delivers complete projects end-to-end: database design, RESTful APIs, authentication, responsive UIs, and Git/GitHub workflows. Strong problem-solving skills and clear technical communication in English (C1). Seeking full-stack or backend roles where hands-on delivery and code quality matter.
 
 ---
 
-## Professional Experience
+## Selected Projects
 
-### Full-Stack Developer Intern  
-**Resilience WorldWide** — Remote (Switzerland-based international NGO)  
-*January 2025 – June 2025*
+### Form Generator v2.0 — Personal Project  
+*Laravel 12 · Livewire 3 · MySQL · Google Gemini AI · [github.com/bkallash/form-generator](https://github.com/bkallash/form-generator)*
 
-- Designed and shipped full-stack web features for a humanitarian organisation serving programmes across multiple countries.
-- Built and maintained Laravel (PHP) backend modules using MVC patterns, Eloquent ORM, middleware, and authentication flows.
-- Designed and integrated RESTful APIs and connected them to front-end interfaces with HTML5, CSS3, and JavaScript (ES6+).
-- Worked asynchronously with a distributed international team; used Git/GitHub for version control, code review, and on-time sprint deliveries.
-- Practised agile collaboration (Scrum-style ceremonies and iterative delivery) in a fully remote professional environment.
+- Built a full-stack form platform with drag-and-drop builder, public share links, CSV export, conditional logic, and multi-page layouts.
+- Integrated Google Gemini AI for chat-based form creation, sentiment analysis, anomaly alerts, and dashboard health digests via queued background jobs.
+
+### Local Services Marketplace — Personal Project  
+*Laravel · MySQL · Blade · [github.com/bkallash/local-services](https://github.com/bkallash/local-services)*
+
+- Developed a multi-role platform (client, service provider, admin) with service listings, order workflows, dashboards, and admin reporting.
+- Implemented role-based authentication, profile management, and admin modules for users, categories, services, and orders.
+
+### TASKMASTER · Simple Twitter · Finance Tracker — Personal Projects  
+*Laravel · Docker · JavaFX · MySQL*
+
+- **TASKMASTER** — task and project management with today/upcoming views, CRUD, and activity logging ([github.com/bkallash/TASKMASTER](https://github.com/bkallash/TASKMASTER))
+- **Simple Twitter** — social microblogging app with auth, feeds, and Docker Compose deployment ([github.com/bkallash/simple-twitter](https://github.com/bkallash/simple-twitter))
+- **Finance Tracker** — JavaFX desktop app with categories, transactions, and income/expense reports ([github.com/bkallash/Finance_And_Expences_Tracker](https://github.com/bkallash/Finance_And_Expences_Tracker))
 
 ---
 
@@ -33,10 +42,7 @@ Third-year Software Engineering student and full-stack developer with hands-on e
 **Islamic University of Gaza** — Gaza Strip, Palestine  
 *September 2022 – Present*
 
-- Core coursework: software architecture, data structures, algorithms, databases, object-oriented programming, and web engineering.
-- Focus areas: full-stack web development, relational databases, and agile software practices.
-- Completed collaborative technical projects and coursework under constrained infrastructure conditions while maintaining consistent academic progress.
-- Programme aligned with EQF Level 6 / ECTS-compatible higher education standards, supporting international credit recognition.
+- Coursework: software architecture, data structures, algorithms, databases, OOP, and web engineering; EQF Level 6 / ECTS-compatible programme.
 
 ---
 
@@ -45,8 +51,7 @@ Third-year Software Engineering student and full-stack developer with hands-on e
 ### Advanced Laravel Bootcamp — UCASI (Verified)  
 *May 2026*
 
-- Advanced PHP/Laravel: MVC architecture, Eloquent ORM, middleware, authentication systems, and API development.
-- Completed alongside full-time university studies through self-directed professional upskilling.
+- Advanced PHP/Laravel: MVC, Eloquent ORM, middleware, authentication, and API development — completed alongside full-time studies.
 
 ---
 
@@ -54,30 +59,12 @@ Third-year Software Engineering student and full-stack developer with hands-on e
 
 | Area | Skills |
 |------|--------|
-| **Backend** | PHP, Laravel, MVC Architecture, Eloquent ORM, RESTful API Design, MySQL, Relational Databases, Authentication & Middleware |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Responsive UI Design |
-| **Tools & Practices** | Git, GitHub, Agile / Scrum, Linux CLI, VS Code, Technical Documentation, Code Review |
-| **Core Strengths** | Problem Solving, Algorithms, Asynchronous Remote Collaboration, Cross-cultural Teamwork |
-
----
-
-## Languages
-
-- **Arabic** — Native (full professional proficiency, written and spoken)
-- **English** — C1 Advanced (Listening, Reading, Speaking, Interaction, Writing)
-
----
-
-## Selected Competencies
-
-- **Remote delivery:** reliable feature delivery for an international NGO across time zones with strong written English communication.
-- **Mission-driven software:** applied engineering skills in service of community-focused programmes.
-- **Resilience & initiative:** sustained academic and professional output while pursuing advanced Laravel certification beyond degree requirements.
+| **Backend** | PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Authentication & Middleware |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Blade, Bootstrap, Responsive UI Design |
+| **Tools** | Git, GitHub, Docker, Java, JavaFX, Linux CLI, VS Code, Agile / Scrum, Problem Solving, Algorithms |
 
 ---
 
 ## References
 
-Professional reference available upon request: Resilience WorldWide — hr@rww.email  
-
-Academic references available upon request from the Islamic University of Gaza.
+References available upon request · Portfolio: [github.com/bkallash](https://github.com/bkallash)

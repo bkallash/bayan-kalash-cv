@@ -19,7 +19,7 @@ ATS-optimized curriculum vitae for **Bayan Kalash**, Software Engineering studen
 
 ## Customize before each application
 
-- Swap the Professional Summary’s last sentence to match the role (e.g. Laravel backend, full-stack, NGO/tech for good).
-- Add 1–2 project bullets with real links when you have public repos or demos.
+- Swap the Professional Summary’s last sentence to match the role (e.g. Laravel backend, full-stack, AI integration).
+- Reorder or trim projects to match the job description; lead with the most relevant repo.
 
 Built with [BrainDaemon](https://braindaemon.com).
