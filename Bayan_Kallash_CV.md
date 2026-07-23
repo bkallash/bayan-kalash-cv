@@ -1,4 +1,4 @@
-# BAYAN KALASH
+# BAYAN KALLASH
 
 **Software Engineering Student | Full-Stack Developer (Laravel · PHP · JavaScript)**
 
