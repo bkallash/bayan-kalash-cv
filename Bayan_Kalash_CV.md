@@ -9,7 +9,7 @@ bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · [github.c
 
 ## Professional Summary
 
-Third-year Software Engineering student and full-stack developer with a portfolio of production-style web applications in **Laravel (PHP)**, **Livewire**, and **MySQL** — from AI-powered form builders to multi-role marketplaces and social apps. Delivers complete projects end-to-end: database design, RESTful APIs, authentication, responsive UIs, and Git/GitHub workflows. Strong problem-solving skills and clear technical communication in English (C1). Seeking full-stack or backend roles where hands-on delivery and code quality matter.
+Software Engineering student and full-stack Laravel developer who builds AI-integrated web platforms end to end. Creator of **Form Generator**, an AI-powered form builder with real-time analytics, and **The Margin**, a modern publishing platform with vector search, social features, and live notifications. Strong in **PHP**, **Laravel**, **Livewire**, **MySQL**, RESTful APIs, authentication, and responsive front ends. Clear technical communicator in English (C1) with a track record of shipping complete, version-controlled projects on GitHub. Seeking full-stack or backend roles focused on Laravel and modern PHP development.
 
 ---
 
@@ -21,18 +21,11 @@ Third-year Software Engineering student and full-stack developer with a portfoli
 - Built a full-stack form platform with drag-and-drop builder, public share links, CSV export, conditional logic, and multi-page layouts.
 - Integrated Google Gemini AI for chat-based form creation, sentiment analysis, anomaly alerts, and dashboard health digests via queued background jobs.
 
-### Local Services Marketplace — Personal Project  
-*Laravel · MySQL · Blade · [github.com/bkallash/local-services](https://github.com/bkallash/local-services)*
+### The Margin — Personal Project  
+*Laravel 13 · Tailwind CSS v4 · MySQL · laravel/ai · Pusher · [github.com/bkallash/the-margin](https://github.com/bkallash/the-margin)*
 
-- Developed a multi-role platform (client, service provider, admin) with service listings, order workflows, dashboards, and admin reporting.
-- Implemented role-based authentication, profile management, and admin modules for users, categories, services, and orders.
-
-### TASKMASTER · Simple Twitter · Finance Tracker — Personal Projects  
-*Laravel · Docker · JavaFX · MySQL*
-
-- **TASKMASTER** — task and project management with today/upcoming views, CRUD, and activity logging ([github.com/bkallash/TASKMASTER](https://github.com/bkallash/TASKMASTER))
-- **Simple Twitter** — social microblogging app with auth, feeds, and Docker Compose deployment ([github.com/bkallash/simple-twitter](https://github.com/bkallash/simple-twitter))
-- **Finance Tracker** — JavaFX desktop app with categories, transactions, and income/expense reports ([github.com/bkallash/Finance_And_Expences_Tracker](https://github.com/bkallash/Finance_And_Expences_Tracker))
+- Built a blogging and knowledge-publishing platform with article authoring, tags, nested comments, likes, saves, and author follow feeds.
+- Implemented AI vector embeddings and hybrid semantic search with real-time autocomplete; added admin moderation, content reporting, and live notifications via Laravel Echo and Pusher.
 
 ---
 
@@ -59,9 +52,9 @@ Third-year Software Engineering student and full-stack developer with a portfoli
 
 | Area | Skills |
 |------|--------|
-| **Backend** | PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Authentication & Middleware |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Blade, Bootstrap, Responsive UI Design |
-| **Tools** | Git, GitHub, Docker, Java, JavaFX, Linux CLI, VS Code, Agile / Scrum, Problem Solving, Algorithms |
+| **Backend** | PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Queues, Authentication & Middleware |
+| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Blade, Tailwind CSS, Bootstrap, Responsive UI Design |
+| **Tools** | Git, GitHub, Docker, Pusher, Laravel Echo, Linux CLI, VS Code, Agile / Scrum, Problem Solving, Algorithms |
 
 ---
 
