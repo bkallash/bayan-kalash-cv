@@ -55,7 +55,7 @@ Islamic University of Gaza — Gaza Strip, Palestine
 September 2022 – Present
 
 - Coursework: software architecture, data structures, algorithms, databases, OOP,
-  and web engineering; EQF Level 6 / ECTS-compatible programme.
+  and web engineering; focus on full-stack development and agile practices.
 
 ================================================================================
 CERTIFICATIONS

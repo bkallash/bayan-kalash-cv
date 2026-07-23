@@ -42,7 +42,7 @@ Third-year Software Engineering student and full-stack developer with a portfoli
 **Islamic University of Gaza** — Gaza Strip, Palestine  
 *September 2022 – Present*
 
-- Coursework: software architecture, data structures, algorithms, databases, OOP, and web engineering; EQF Level 6 / ECTS-compatible programme.
+- Coursework: software architecture, data structures, algorithms, databases, OOP, and web engineering; focus on full-stack development and agile practices.
 
 ---
 
