@@ -1,28 +1,31 @@
 # BAYAN KALLASH
 
-**Software Engineering Student | Full-Stack Developer (Laravel · PHP · JavaScript)**
+**Full-Stack Developer (Laravel · PHP · JavaScript)**
 
-bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · [github.com/bkallash](https://github.com/bkallash) · Open to remote worldwide  
+bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · Open to remote worldwide  
+[GitHub](https://github.com/bkallash) · [Portfolio](https://github.com/bkallash/portfolio)  
 **Languages:** Arabic (Native) · English (C1 Advanced)
 
 ---
 
 ## Professional Summary
 
-Full-stack developer who turns complex requirements into clean, production-ready systems. Designs and ships **Laravel** and **PHP** applications with solid architecture, secure authentication, and data layers that scale. Brings disciplined problem-solving, ownership from idea to deployment, and a focus on software that teams can trust and users can rely on. Open to remote full-stack and backend roles where craftsmanship and delivery create lasting value.
+Full-stack developer who ships clean Laravel and PHP systems — from secure APIs and solid data layers to interfaces that feel fast and clear. Owns delivery end to end and builds software teams can trust. Open to remote full-stack and backend roles.
 
 ---
 
 ## Selected Projects
 
 ### Form Generator v2.0 — Personal Project  
-*Laravel 12 · Livewire 3 · MySQL · Google Gemini AI · [github.com/bkallash/form-generator](https://github.com/bkallash/form-generator)*
+*Laravel 12 · Livewire 3 · MySQL · Google Gemini AI*  
+**Link:** [github.com/bkallash/form-generator](https://github.com/bkallash/form-generator)
 
 - Built a full-stack form platform with drag-and-drop builder, public share links, CSV export, conditional logic, and multi-page layouts.
 - Integrated Google Gemini AI for chat-based form creation, sentiment analysis, anomaly alerts, and dashboard health digests via queued background jobs.
 
 ### The Margin — Personal Project  
-*Laravel 13 · Tailwind CSS v4 · MySQL · laravel/ai · Pusher · [github.com/bkallash/the-margin](https://github.com/bkallash/the-margin)*
+*Laravel 13 · Tailwind CSS v4 · MySQL · laravel/ai · Pusher*  
+**Link:** [github.com/bkallash/the-margin](https://github.com/bkallash/the-margin)
 
 - Built a blogging and knowledge-publishing platform with article authoring, tags, nested comments, likes, saves, and author follow feeds.
 - Implemented AI vector embeddings and hybrid semantic search with real-time autocomplete; added admin moderation, content reporting, and live notifications via Laravel Echo and Pusher.
@@ -52,12 +55,14 @@ Full-stack developer who turns complex requirements into clean, production-ready
 
 | Area | Skills |
 |------|--------|
-| **Backend** | PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Queues, Authentication & Middleware |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+), Blade, Tailwind CSS, Bootstrap, Responsive UI Design |
-| **Tools** | Git, GitHub, Docker, Pusher, Laravel Echo, Linux CLI, VS Code, Agile / Scrum, Problem Solving, Algorithms |
+| **Languages** | PHP · JavaScript (ES6+) · HTML5 · CSS3 · SQL |
+| **Backend** | Laravel · Livewire · MVC · Eloquent ORM · RESTful APIs · Queues · Authentication & Middleware · MySQL |
+| **Frontend** | Blade · Tailwind CSS · Bootstrap · Responsive UI Design |
+| **Tools** | Git · GitHub · Docker · Pusher · Laravel Echo · Linux CLI · VS Code |
+| **Practices** | Agile / Scrum · Problem Solving · Algorithms · Technical Documentation |
 
 ---
 
 ## References
 
-References available upon request · Portfolio: [github.com/bkallash](https://github.com/bkallash)
+References available upon request · Portfolio: [github.com/bkallash/portfolio](https://github.com/bkallash/portfolio)

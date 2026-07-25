@@ -1,27 +1,27 @@
 BAYAN KALLASH
-Software Engineering Student | Full-Stack Developer (Laravel / PHP / JavaScript)
+Full-Stack Developer (Laravel / PHP / JavaScript)
 
 Email: bayankallash@gmail.com
 Phone: +970 599 756 244
 Location: Gaza Strip, Palestine | Open to remote work worldwide
-GitHub: github.com/bkallash
+GitHub: https://github.com/bkallash
+Portfolio: https://github.com/bkallash/portfolio
 Languages: Arabic (Native) | English (C1 Advanced)
 
 ================================================================================
 PROFESSIONAL SUMMARY
 ================================================================================
-Full-stack developer who turns complex requirements into clean, production-ready
-systems. Designs and ships Laravel and PHP applications with solid architecture,
-secure authentication, and data layers that scale. Brings disciplined problem-
-solving, ownership from idea to deployment, and a focus on software that teams
-can trust and users can rely on. Open to remote full-stack and backend roles
-where craftsmanship and delivery create lasting value.
+Full-stack developer who ships clean Laravel and PHP systems — from secure APIs
+and solid data layers to interfaces that feel fast and clear. Owns delivery end
+to end and builds software teams can trust. Open to remote full-stack and
+backend roles.
 
 ================================================================================
 SELECTED PROJECTS
 ================================================================================
 Form Generator v2.0 — Personal Project
-Laravel 12, Livewire 3, MySQL, Google Gemini AI | github.com/bkallash/form-generator
+Laravel 12, Livewire 3, MySQL, Google Gemini AI
+Link: https://github.com/bkallash/form-generator
 
 - Built a full-stack form platform with drag-and-drop builder, public share links,
   CSV export, conditional logic, and multi-page layouts.
@@ -29,7 +29,8 @@ Laravel 12, Livewire 3, MySQL, Google Gemini AI | github.com/bkallash/form-gener
   anomaly alerts, and dashboard health digests via queued background jobs.
 
 The Margin — Personal Project
-Laravel 13, Tailwind CSS v4, MySQL, laravel/ai, Pusher | github.com/bkallash/the-margin
+Laravel 13, Tailwind CSS v4, MySQL, laravel/ai, Pusher
+Link: https://github.com/bkallash/the-margin
 
 - Built a blogging and knowledge-publishing platform with article authoring, tags,
   nested comments, likes, saves, and author follow feeds.
@@ -59,16 +60,15 @@ May 2026
 ================================================================================
 TECHNICAL SKILLS
 ================================================================================
-Backend: PHP, Laravel, Livewire, MVC, Eloquent ORM, RESTful APIs, MySQL, Queues,
-Authentication & Middleware
-
-Frontend: HTML5, CSS3, JavaScript (ES6+), Blade, Tailwind CSS, Bootstrap,
-Responsive UI Design
-
-Tools: Git, GitHub, Docker, Pusher, Laravel Echo, Linux CLI, VS Code, Agile / Scrum,
-Problem Solving, Algorithms
+Languages:  PHP · JavaScript (ES6+) · HTML5 · CSS3 · SQL
+Backend:    Laravel · Livewire · MVC · Eloquent ORM · RESTful APIs · Queues ·
+            Authentication & Middleware · MySQL
+Frontend:   Blade · Tailwind CSS · Bootstrap · Responsive UI Design
+Tools:      Git · GitHub · Docker · Pusher · Laravel Echo · Linux CLI · VS Code
+Practices:  Agile / Scrum · Problem Solving · Algorithms · Technical Documentation
 
 ================================================================================
 REFERENCES
 ================================================================================
-References available upon request. Portfolio: github.com/bkallash
+References available upon request.
+Portfolio: https://github.com/bkallash/portfolio
