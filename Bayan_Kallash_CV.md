@@ -10,7 +10,7 @@ bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · Open to r
 
 ## Professional Summary
 
-Full-stack developer who ships clean Laravel and PHP systems — from secure APIs and solid data layers to interfaces that feel fast and clear. Owns delivery end to end and builds software teams can trust. Open to remote full-stack and backend roles.
+Full-stack developer with disciplined command of software engineering fundamentals — system design, data structures, algorithms, and clean architecture. Engineers **Laravel** and **PHP** solutions with precision, from well-modeled data layers and secure APIs to polished, intuitive interfaces. Holds work to a high standard of clarity, maintainability, and technical rigor. Open to remote full-stack and backend roles.
 
 ---
 
