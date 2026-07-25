@@ -5,7 +5,7 @@ Email: bayankallash@gmail.com
 Phone: +970 599 756 244
 Location: Gaza Strip, Palestine | Open to remote work worldwide
 GitHub: https://github.com/bkallash
-Portfolio: https://github.com/bkallash/portfolio
+Portfolio: https://bkallash.github.io/portfolio/
 Languages: Arabic (Native) | English (C1 Advanced)
 
 ================================================================================
@@ -71,4 +71,4 @@ Practices:  Agile / Scrum · Problem Solving · Algorithms · Technical Document
 REFERENCES
 ================================================================================
 References available upon request.
-Portfolio: https://github.com/bkallash/portfolio
+Portfolio: https://bkallash.github.io/portfolio/

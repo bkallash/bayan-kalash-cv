@@ -3,7 +3,7 @@
 **Full-Stack Developer (Laravel · PHP · JavaScript)**
 
 bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine · Open to remote worldwide  
-[GitHub](https://github.com/bkallash) · [Portfolio](https://github.com/bkallash/portfolio)  
+[GitHub](https://github.com/bkallash) · [Portfolio](https://bkallash.github.io/portfolio/)  
 **Languages:** Arabic (Native) · English (C1 Advanced)
 
 ---
@@ -65,4 +65,4 @@ Full-stack developer who ships clean Laravel and PHP systems — from secure API
 
 ## References
 
-References available upon request · Portfolio: [github.com/bkallash/portfolio](https://github.com/bkallash/portfolio)
+References available upon request · Portfolio: [bkallash.github.io/portfolio](https://bkallash.github.io/portfolio/)
