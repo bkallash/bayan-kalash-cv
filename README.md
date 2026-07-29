@@ -24,7 +24,7 @@ Two curriculum vitae versions for **Bayan Kallash**:
 | `Bayan_Kallash_CV_Erasmus.txt` | Plain-text version |
 
 Academic version highlights:
-- CGPA **90.57 / 100**
+- CGPA **90.57%**
 - EQF Level 6 / ECTS credit recognition notes
 - CEFR English **C1** (self-assessment; no formal certificate yet)
 - Academic projects and additional competences for international study

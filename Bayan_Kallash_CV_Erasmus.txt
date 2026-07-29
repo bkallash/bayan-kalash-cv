@@ -6,12 +6,12 @@ Portfolio: https://bkallash.github.io/portfolio/
 Languages: Arabic (Native) | English (C1, CEFR self-assessment)
 
 ACADEMIC PROFILE
-Software Engineering student with a CGPA of 90.57 / 100 and a solid grounding in algorithms, data structures, software architecture, databases, and web engineering. Complements formal study with independent full-stack projects that apply analytical thinking and careful system design. Works well in English-medium academic settings and collaborative coursework, with clear technical communication and a steady approach to learning.
+Software Engineering student with a CGPA of 90.57% and a solid grounding in algorithms, data structures, software architecture, databases, and web engineering. Complements formal study with independent full-stack projects that apply analytical thinking and careful system design. Works well in English-medium academic settings and collaborative coursework, with clear technical communication and a steady approach to learning.
 
 EDUCATION
 B.Sc. Software Engineering | September 2022 – Present
 Islamic University of Gaza, Gaza Strip, Palestine
-Cumulative GPA: 90.57 / 100
+Cumulative GPA: 90.57%
 - Bachelor's programme covering software architecture, data structures, algorithms, databases, OOP, and web engineering.
 - First-cycle study (EQF Level 6 equivalent) with coursework suitable for ECTS credit recognition subject to host-institution evaluation.
 - Maintained strong academic standing through collaborative technical coursework, with consistent self-management and learning discipline.
@@ -45,7 +45,7 @@ Engineering: Laravel, Livewire, RESTful APIs, MVC, MySQL, Git/GitHub, Docker, Li
 Learning: Self-directed study, Technical documentation, Version-controlled academic and project workflows
 
 ADDITIONAL COMPETENCES
-Academic performance: Strong results (90.57/100) with the ability to move from theory to working systems in a structured way.
+Academic performance: Strong results (90.57%) with the ability to move from theory to working systems in a structured way.
 Intercultural awareness: Open to studying and collaborating in diverse academic settings, with respect for different cultures and institutions.
 Resilience and independence: Kept academic and project work on track in demanding conditions, with reliable self-management.
 Teamwork and communication: Comfortable with collaborative project work and clear technical English in seminars and group assignments.

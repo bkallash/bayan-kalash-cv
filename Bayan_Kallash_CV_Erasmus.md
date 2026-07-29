@@ -10,7 +10,7 @@ bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine
 
 ## Academic Profile
 
-Software Engineering student with a CGPA of **90.57 / 100** and a solid grounding in algorithms, data structures, software architecture, databases, and web engineering. Complements formal study with independent full-stack projects that apply analytical thinking and careful system design. Works well in English-medium academic settings and collaborative coursework, with clear technical communication and a steady approach to learning.
+Software Engineering student with a CGPA of **90.57%** and a solid grounding in algorithms, data structures, software architecture, databases, and web engineering. Complements formal study with independent full-stack projects that apply analytical thinking and careful system design. Works well in English-medium academic settings and collaborative coursework, with clear technical communication and a steady approach to learning.
 
 ---
 
@@ -19,7 +19,7 @@ Software Engineering student with a CGPA of **90.57 / 100** and a solid groundin
 ### B.Sc. Software Engineering  
 **Islamic University of Gaza**, Gaza Strip, Palestine  
 *September 2022 – Present*  
-**Cumulative GPA: 90.57 / 100**
+**Cumulative GPA: 90.57%**
 
 - Bachelor’s programme covering software architecture, data structures, algorithms, databases, OOP, and web engineering.
 - First-cycle study (EQF Level 6 equivalent) with coursework suitable for ECTS credit recognition subject to host-institution evaluation.
@@ -77,7 +77,7 @@ Software Engineering student with a CGPA of **90.57 / 100** and a solid groundin
 
 ## Additional Competences
 
-**Academic performance:** Strong results (90.57/100) with the ability to move from theory to working systems in a structured way.
+**Academic performance:** Strong results (90.57%) with the ability to move from theory to working systems in a structured way.
 
 **Intercultural awareness:** Open to studying and collaborating in diverse academic settings, with respect for different cultures and institutions.
 
