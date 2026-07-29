@@ -1,57 +1,57 @@
 # BAYAN KALLASH
 
-**Software Engineering Student · Candidate for Academic Mobility (Erasmus+ / Exchange)**
+**Software Engineering Student**
 
 bayankallash@gmail.com · +970 599 756 244 · Gaza Strip, Palestine  
 [GitHub](https://github.com/bkallash) · [Portfolio](https://bkallash.github.io/portfolio/)  
-**Languages:** Arabic (Native) · English (C1 — CEFR self-assessment)
+**Languages:** Arabic (Native) · English (C1, CEFR self-assessment)
 
 ---
 
 ## Academic Profile
 
-High-achieving Software Engineering student (CGPA **90.57 / 100**) with a rigorous foundation in algorithms, data structures, software architecture, databases, and web engineering. Combines strong academic performance with independent full-stack projects that demonstrate applied research, analytical thinking, and end-to-end system design. Prepared for European higher-education mobility: academically motivated, digitally fluent, interculturally open, and ready to engage fully in English-medium coursework, collaborative learning, and ECTS credit recognition.
+Software Engineering student with a CGPA of **90.57 / 100** and a solid grounding in algorithms, data structures, software architecture, databases, and web engineering. Complements formal study with independent full-stack projects that apply analytical thinking and careful system design. Works well in English-medium academic settings and collaborative coursework, with clear technical communication and a steady approach to learning.
 
 ---
 
 ## Education
 
 ### B.Sc. Software Engineering  
-**Islamic University of Gaza** — Gaza Strip, Palestine  
+**Islamic University of Gaza**, Gaza Strip, Palestine  
 *September 2022 – Present*  
 **Cumulative GPA: 90.57 / 100**
 
-- Accredited bachelor’s programme covering software architecture, data structures, algorithms, databases, object-oriented programming, and web engineering.
-- Academic focus aligned with European degree structures (EQF Level 6 / first-cycle Bachelor); coursework designed for ECTS-compatible credit transfer upon host-institution evaluation.
-- Sustained excellent academic standing while participating in collaborative technical project work under significant infrastructural constraints — evidence of resilience, self-management, and learning discipline.
-- Independent deepening of professional software practice alongside formal studies (advanced Laravel training and production-style project portfolio).
+- Bachelor’s programme covering software architecture, data structures, algorithms, databases, OOP, and web engineering.
+- First-cycle study (EQF Level 6 equivalent) with coursework suitable for ECTS credit recognition subject to host-institution evaluation.
+- Maintained strong academic standing through collaborative technical coursework, with consistent self-management and learning discipline.
+- Extended practice beyond required modules through advanced Laravel training and an independent project portfolio.
 
 ---
 
 ## Academic & Applied Projects
 
-### Form Generator v2.0 — Independent Project  
+### Form Generator v2.0 (Independent Project)  
 *Laravel 12 · Livewire 3 · MySQL · Google Gemini AI*  
 **Link:** [github.com/bkallash/form-generator](https://github.com/bkallash/form-generator)
 
-- Designed and implemented a full-stack academic/industrial form platform demonstrating MVC architecture, relational modelling, authentication, and interactive UI engineering.
-- Applied AI integration (Google Gemini) for assisted form creation and analytics — showing capacity for emerging technologies, research curiosity, and complex problem decomposition.
+- Full-stack form platform applying MVC architecture, relational modelling, authentication, and interactive UI design.
+- Integrated Google Gemini AI for assisted form creation and analytics, combining emerging tools with structured problem solving.
 
-### The Margin — Independent Project  
+### The Margin (Independent Project)  
 *Laravel 13 · Tailwind CSS · MySQL · AI vector search · Pusher*  
 **Link:** [github.com/bkallash/the-margin](https://github.com/bkallash/the-margin)
 
-- Built a knowledge-publishing platform with authoring workflows, social interaction features, moderation, and real-time notifications — integrating systems thinking with user-centred design.
-- Implemented hybrid semantic search with vector embeddings, combining information retrieval concepts with practical software engineering delivery.
+- Knowledge-publishing platform with authoring, social features, moderation, and real-time notifications.
+- Hybrid semantic search with vector embeddings, linking information-retrieval ideas to practical software delivery.
 
 ---
 
 ## Certifications & Further Training
 
-### Advanced Laravel Bootcamp — UCASI (Verified)  
+### Advanced Laravel Bootcamp, UCASI  
 *May 2026*
 
-- Advanced PHP/Laravel: MVC, Eloquent ORM, middleware, authentication systems, and API development — completed through self-directed professional development alongside degree studies.
+- Advanced PHP/Laravel: MVC, Eloquent ORM, middleware, authentication systems, and API development, completed alongside degree studies.
 
 ---
 
@@ -60,7 +60,7 @@ High-achieving Software Engineering student (CGPA **90.57 / 100**) with a rigoro
 | Language | Level | Notes |
 |----------|-------|-------|
 | **Arabic** | Native | Full professional and academic proficiency in written and spoken communication |
-| **English** | **C1 Advanced** | CEFR self-assessment; no formal certificate yet. Listening, Reading, Spoken Interaction, Spoken Production, and Writing at C1. Capable of English-medium lectures, seminars, group projects, academic writing, and assessment |
+| **English** | **C1 Advanced** | CEFR self-assessment; no formal certificate yet. Listening, Reading, Spoken Interaction, Spoken Production, and Writing at C1. Able to follow lectures, seminars, group projects, and academic writing in English |
 
 ---
 
@@ -75,22 +75,22 @@ High-achieving Software Engineering student (CGPA **90.57 / 100**) with a rigoro
 
 ---
 
-## Competences Relevant to Erasmus+ Mobility
+## Additional Competences
 
-**Academic excellence & learning agility** — Consistently high performance (90.57/100) with proven ability to master demanding technical curricula and transfer theory into working systems.
+**Academic performance:** Strong results (90.57/100) with the ability to move from theory to working systems in a structured way.
 
-**Intercultural openness** — Prepared to study and collaborate in multicultural European learning environments; respectful, curious, and adaptable across cultural and institutional contexts.
+**Intercultural awareness:** Open to studying and collaborating in diverse academic settings, with respect for different cultures and institutions.
 
-**Resilience & independence** — Maintained academic excellence and project delivery under exceptional adversity; strong self-management suited to living and studying abroad.
+**Resilience & independence:** Kept academic and project work on track in demanding conditions, with reliable self-management.
 
-**Teamwork & communication** — Experienced in collaborative, agile project work and clear technical communication in English; ready for seminars, group assignments, and peer learning.
+**Teamwork & communication:** Comfortable with collaborative project work and clear technical English in seminars and group assignments.
 
-**Active citizenship** — Committed to using software engineering knowledge for inclusive, responsible digital solutions that benefit wider communities.
+**Social responsibility:** Interested in building inclusive, responsible digital solutions that serve wider communities.
 
-**European mobility readiness** — Motivated for credit-bearing study abroad under ECTS; seeks host programmes that deepen software engineering, research methods, and international academic experience.
+**International study interest:** Interested in credit-bearing study abroad that strengthens software engineering, research methods, and academic exchange.
 
 ---
 
 ## References
 
-Academic references available upon request from the Islamic University of Gaza · Portfolio: [bkallash.github.io/portfolio](https://bkallash.github.io/portfolio/)
+Academic references available upon request · Portfolio: [bkallash.github.io/portfolio](https://bkallash.github.io/portfolio/)
