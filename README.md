@@ -1,25 +1,38 @@
-# Bayan Kallash — Professional CV
+# Bayan Kallash — CV Package
 
-ATS-optimized curriculum vitae for **Bayan Kallash**, Software Engineering student and Full-Stack Developer.
+Two curriculum vitae versions for **Bayan Kallash**:
 
-## Files
+1. **Professional** — ATS-optimized for full-stack / backend job applications  
+2. **Academic / Erasmus+** — tailored for college admission and Erasmus+ exchange selection
+
+## Professional CV (jobs)
 
 | File | Purpose |
 |------|---------|
-| `Bayan_Kallash_CV.pdf` | Ready-to-send PDF (selectable text — ATS-friendly) |
-| `Bayan_Kallash_CV.html` | Editable print layout — open in a browser and **Print → Save as PDF** |
-| `Bayan_Kallash_CV.md` | Markdown version for GitHub, LinkedIn, or copy-paste |
-| `Bayan_Kallash_CV.txt` | Plain-text ATS upload (safest parse for many applicant tracking systems) |
+| `Bayan_Kallash_CV.pdf` | Ready-to-send PDF (selectable text) |
+| `Bayan_Kallash_CV.html` | Editable print layout — browser **Print → Save as PDF** |
+| `Bayan_Kallash_CV.md` | Markdown for GitHub / LinkedIn |
+| `Bayan_Kallash_CV.txt` | Plain-text ATS upload |
 
-## ATS tips when applying
+## Academic / Erasmus+ CV (admission & mobility)
 
-1. Prefer uploading **`.txt`** or the PDF exported from the HTML (text must be selectable — never a scanned image).
-2. Mirror keywords from each job description in the Professional Summary and Skills sections where truthful.
-3. Keep the filename clean: `Bayan_Kallash_CV.pdf`.
+| File | Purpose |
+|------|---------|
+| `Bayan_Kallash_CV_Erasmus.pdf` | Ready-to-send PDF for applications |
+| `Bayan_Kallash_CV_Erasmus.html` | Editable print layout |
+| `Bayan_Kallash_CV_Erasmus.md` | Markdown version |
+| `Bayan_Kallash_CV_Erasmus.txt` | Plain-text version |
 
-## Customize before each application
+Highlights for Erasmus+ / admissions reviewers:
+- CGPA **90.57 / 100**
+- EQF Level 6 / ECTS credit-transfer readiness
+- CEFR English **C1** (self-assessment; no formal certificate yet)
+- Academic projects with learning outcomes
+- Mobility competences: intercultural openness, resilience, teamwork, active citizenship
 
-- Swap the Professional Summary’s last sentence to match the role (e.g. Laravel backend, full-stack, AI integration).
-- Reorder or trim projects to match the job description; lead with the most relevant repo.
+## Tips
+
+**Jobs:** Prefer `.txt` or selectable PDF; mirror keywords from each job description.  
+**Erasmus+ / admission:** Pair the academic CV with a Learning Agreement / motivation letter; be ready to discuss ECTS mapping with your home/host coordinators.
 
 Built with [BrainDaemon](https://braindaemon.com).
